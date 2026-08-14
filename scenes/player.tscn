@@ -1,0 +1,29 @@
+[gd_scene format=3 uid="uid://be8qbmt0fe144"]
+
+[ext_resource type="Texture2D" uid="uid://behhhgomfx4kp" path="res://assets/Bicycles/bicyle flat design.png" id="1_3vyb7"]
+[ext_resource type="PackedScene" uid="uid://bipnw1q7rjmx" path="res://scenes/wheel.tscn" id="2_g2els"]
+
+[node name="Player" type="RigidBody2D" unique_id=1556368156 groups=["player"]]
+gravity_scale = 30.0
+
+[node name="WheelHolder" type="PinJoint2D" parent="." unique_id=1123703961]
+position = Vector2(-855, -720)
+node_a = NodePath("..")
+node_b = NodePath("Wheel")
+
+[node name="Wheel" parent="WheelHolder" unique_id=1684264462 instance=ExtResource("2_g2els")]
+position = Vector2(-9, 0)
+
+[node name="Wheel" parent="." unique_id=1107449320 instance=ExtResource("2_g2els")]
+position = Vector2(782, -720)
+
+[node name="WheelHolder2" type="PinJoint2D" parent="." unique_id=1321590537]
+position = Vector2(783, -720)
+node_a = NodePath("..")
+node_b = NodePath("../Wheel")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=2147342606]
+texture = ExtResource("1_3vyb7")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="." unique_id=954504225]
+polygon = PackedVector2Array(-296, -953, -872, -742, -880, -728, -883, -710, -868, -686, -279, -691, -260, -664, -248, -657, -232, -647, -207, -637, -176, -637, -132, -649, -105, -683, -96, -697, -94, -710, -91, -724, -87, -751, -95, -774, -58, -818, 437, -1411, 759, -694, 775, -687, 791, -689, 803, -694, 809, -703, 818, -723, 418, -1575, 592, -1577, 603, -1534, 594, -1477, 585, -1439, 594, -1410, 607, -1407, 625, -1406, 638, -1422, 646, -1446, 653, -1464, 661, -1486, 661, -1508, 661, -1529, 656, -1550, 650, -1571, 644, -1594, 638, -1614, 618, -1641, 343, -1636, 324, -1623, 324, -1598, 337, -1583, 344, -1579, 351, -1575, 401, -1467, 279, -1317, -333, -1266, -384, -1432, -174, -1452, -164, -1470, -161, -1490, -170, -1501, -181, -1510, -527, -1556, -556, -1548, -587, -1513, -595, -1484, -592, -1455, -579, -1426, -567, -1422, -553, -1412, -527, -1408, -496, -1411, -459, -1414, -443, -1418, -298, -965)

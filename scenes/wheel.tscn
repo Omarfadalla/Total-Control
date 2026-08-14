@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://bipnw1q7rjmx"]
+
+[ext_resource type="Texture2D" uid="uid://bvuy448yb8agu" path="res://assets/Bicycles/bicyle flat design-2.png" id="1_hm1pg"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_hm1pg"]
+radius = 490.86963
+
+[node name="Wheel" type="RigidBody2D" unique_id=1684264462 groups=["player"]]
+gravity_scale = 15.0
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=282640734]
+position = Vector2(-778, 720)
+texture = ExtResource("1_hm1pg")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1233607305]
+position = Vector2(1, 1)
+shape = SubResource("CircleShape2D_hm1pg")
+debug_color = Color(0.22543329, 0.0069062, 0.06813959, 0.41960785)
