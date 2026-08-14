@@ -1,26 +1,30 @@
 [gd_scene format=3 uid="uid://be8qbmt0fe144"]
 
 [ext_resource type="Texture2D" uid="uid://behhhgomfx4kp" path="res://assets/Bicycles/bicyle flat design.png" id="1_3vyb7"]
-[ext_resource type="PackedScene" uid="uid://bipnw1q7rjmx" path="res://scenes/wheel.tscn" id="2_g2els"]
+[ext_resource type="Script" uid="uid://dn48v3ycg2xpi" path="res://scripts/player.gd" id="1_qhqgy"]
+[ext_resource type="PackedScene" uid="uid://bipnw1q7rjmx" path="res://scenes/Wheel.tscn" id="2_g2els"]
 
-[node name="Player" type="RigidBody2D" unique_id=1556368156 groups=["player"]]
+[node name="Player" type="RigidBody2D" unique_id=1556368156 groups=["player", "wheel"]]
 gravity_scale = 30.0
+script = ExtResource("1_qhqgy")
 
 [node name="WheelHolder" type="PinJoint2D" parent="." unique_id=1123703961]
 position = Vector2(-855, -720)
 node_a = NodePath("..")
 node_b = NodePath("Wheel")
+softness = 0.8
 
 [node name="Wheel" parent="WheelHolder" unique_id=1684264462 instance=ExtResource("2_g2els")]
 position = Vector2(-9, 0)
 
-[node name="Wheel" parent="." unique_id=1107449320 instance=ExtResource("2_g2els")]
-position = Vector2(782, -720)
-
 [node name="WheelHolder2" type="PinJoint2D" parent="." unique_id=1321590537]
 position = Vector2(783, -720)
 node_a = NodePath("..")
-node_b = NodePath("../Wheel")
+node_b = NodePath("Wheel")
+softness = 0.8
+
+[node name="Wheel" parent="WheelHolder2" unique_id=1107449320 instance=ExtResource("2_g2els")]
+position = Vector2(-1, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=2147342606]
 texture = ExtResource("1_3vyb7")

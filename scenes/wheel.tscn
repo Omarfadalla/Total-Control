@@ -1,16 +1,16 @@
 [gd_scene format=3 uid="uid://bipnw1q7rjmx"]
 
-[ext_resource type="Texture2D" uid="uid://bvuy448yb8agu" path="res://assets/Bicycles/bicyle flat design-2.png" id="1_hm1pg"]
+[ext_resource type="Texture2D" uid="uid://bvuy448yb8agu" path="res://assets/Bicycles/bicyle flat design-2.png" id="1_g7ysu"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_hm1pg"]
 radius = 490.86963
 
-[node name="Wheel" type="RigidBody2D" unique_id=1684264462 groups=["player"]]
+[node name="Wheel" type="RigidBody2D" unique_id=1684264462 groups=["player", "wheel"]]
 gravity_scale = 15.0
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=282640734]
 position = Vector2(-778, 720)
-texture = ExtResource("1_hm1pg")
+texture = ExtResource("1_g7ysu")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1233607305]
 position = Vector2(1, 1)
