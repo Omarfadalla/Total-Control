@@ -1,0 +1,101 @@
+[gd_scene format=3 uid="uid://bhbd4chg43434"]
+
+[ext_resource type="Texture2D" uid="uid://it57nx38g5j" path="res://assets/Pickups/Coin50.png" id="1_hj0ky"]
+[ext_resource type="FontFile" uid="uid://8thp88fhc512" path="res://Fonts/LoveYaLikeASister-Regular.ttf" id="2_to2q1"]
+
+[node name="UI" type="CanvasLayer" unique_id=554973141]
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=1513425756]
+offset_left = 23.0
+offset_top = 28.0
+offset_right = 223.0
+offset_bottom = 228.0
+scale = Vector2(0.68, 0.68)
+texture = ExtResource("1_hj0ky")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1942742603]
+offset_left = 55.0
+offset_top = 71.0
+offset_right = 160.0
+offset_bottom = 150.0
+scale = Vector2(0.68, 0.68)
+color = Color(0.7921569, 0.39215687, 0.050980393, 1)
+
+[node name="ColorRect2" type="ColorRect" parent="." unique_id=1624769853]
+offset_left = 61.0
+offset_top = 61.0
+offset_right = 150.47058
+offset_bottom = 162.47058
+scale = Vector2(0.68, 0.68)
+color = Color(0.7921569, 0.39215687, 0.050980393, 1)
+
+[node name="ColorRect4" type="ColorRect" parent="." unique_id=142062703]
+offset_left = 70.00001
+offset_top = 57.999996
+offset_right = 139.0
+offset_bottom = 169.0
+scale = Vector2(0.68, 0.68)
+color = Color(0.7921569, 0.39215687, 0.050980393, 1)
+
+[node name="ColorRect3" type="ColorRect" parent="." unique_id=1115258692]
+offset_left = 52.0
+offset_top = 71.0
+offset_right = 158.0
+offset_bottom = 140.11765
+scale = Vector2(0.68, 0.68)
+color = Color(0.7921569, 0.39215687, 0.050980393, 1)
+
+[node name="ColorRect5" type="ColorRect" parent="." unique_id=1289044991]
+offset_left = 54.000008
+offset_top = 69.00001
+offset_right = 165.76471
+offset_bottom = 148.0
+scale = Vector2(0.68, 0.68)
+color = Color(0.7921569, 0.39215687, 0.050980393, 1)
+
+[node name="ColorRect6" type="ColorRect" parent="." unique_id=786508511]
+offset_left = 48.000004
+offset_top = 85.0
+offset_right = 177.0
+offset_bottom = 120.0
+scale = Vector2(0.68, 0.68)
+color = Color(0.7921569, 0.39215687, 0.050980393, 1)
+
+[node name="ColorRect7" type="ColorRect" parent="." unique_id=1763388075]
+offset_left = 67.00001
+offset_top = 83.00001
+offset_right = 137.58823
+offset_bottom = 162.41174
+scale = Vector2(0.68, 0.68)
+color = Color(0.7921569, 0.39215687, 0.050980393, 1)
+
+[node name="RichTextLabel" type="RichTextLabel" parent="." unique_id=1903366581]
+offset_left = 59.0
+offset_top = 64.0
+offset_right = 164.88234
+offset_bottom = 187.52942
+scale = Vector2(0.68, 0.68)
+theme_override_constants/shadow_outline_size = 6
+theme_override_constants/shadow_offset_x = 4
+theme_override_constants/shadow_offset_y = 5
+theme_override_constants/outline_size = 10
+theme_override_fonts/normal_font = ExtResource("2_to2q1")
+theme_override_font_sizes/normal_font_size = 83
+text = "$$"
+tab_size = 11
+
+[node name="Label" type="Label" parent="." unique_id=372481672]
+offset_left = 118.99999
+offset_top = 62.999996
+offset_right = 286.0
+offset_bottom = 131.0
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_shadow_color = Color(0.19076231, 0.19076234, 0.19076231, 0)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/outline_size = 6
+theme_override_fonts/font = ExtResource("2_to2q1")
+theme_override_font_sizes/font_size = 49
+text = "0"
+horizontal_alignment = 1
+vertical_alignment = 1
