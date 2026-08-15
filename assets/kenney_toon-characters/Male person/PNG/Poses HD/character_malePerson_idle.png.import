@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkwp3oh6pxlw"
-path="res://.godot/imported/character_malePerson_idle.png-990308d1c7f2ec50fdc55bb85aa6b277.ctex"
+path="res://.godot/imported/character_malePerson_idle.png-e68e09c32dbed4325e0adf0ebd0b6604.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Male person/PNG/Poses HD/character_malePerson_idle.png"
-dest_files=["res://.godot/imported/character_malePerson_idle.png-990308d1c7f2ec50fdc55bb85aa6b277.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Male person/PNG/Poses HD/character_malePerson_idle.png"
+dest_files=["res://.godot/imported/character_malePerson_idle.png-e68e09c32dbed4325e0adf0ebd0b6604.ctex"]
 
 [params]
 

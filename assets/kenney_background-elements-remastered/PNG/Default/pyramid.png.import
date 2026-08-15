@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drwqqpagw4lkg"
-path="res://.godot/imported/pyramid.png-fb4324f3938eea3ca63d8e0f9b7c4163.ctex"
+path="res://.godot/imported/pyramid.png-1202060701371a2eea24ad32405744d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Default/pyramid.png"
-dest_files=["res://.godot/imported/pyramid.png-fb4324f3938eea3ca63d8e0f9b7c4163.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Default/pyramid.png"
+dest_files=["res://.godot/imported/pyramid.png-1202060701371a2eea24ad32405744d8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bosrh0oe81ucf"
-path="res://.godot/imported/arrow right.png-1b8a2cc0325afb469febf95b5acff9d5.ctex"
+path="res://.godot/imported/arrow right.png-37dac08f8829b4cfd5339510352973ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic white/arrow right.png"
-dest_files=["res://.godot/imported/arrow right.png-1b8a2cc0325afb469febf95b5acff9d5.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic white/arrow right.png"
+dest_files=["res://.godot/imported/arrow right.png-37dac08f8829b4cfd5339510352973ca.ctex"]
 
 [params]
 

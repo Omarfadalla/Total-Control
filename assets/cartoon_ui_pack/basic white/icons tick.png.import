@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br5iv2pp3g4ik"
-path="res://.godot/imported/icons tick.png-28919ac93cb8e63973ec9569b08ff782.ctex"
+path="res://.godot/imported/icons tick.png-270880864798be3f3f5665b6c7a53a93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic white/icons tick.png"
-dest_files=["res://.godot/imported/icons tick.png-28919ac93cb8e63973ec9569b08ff782.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic white/icons tick.png"
+dest_files=["res://.godot/imported/icons tick.png-270880864798be3f3f5665b6c7a53a93.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d31i0fto6vesp"
-path="res://.godot/imported/houseSmall2.png-cbad45c5d4780a5eff87b90f457ca4b5.ctex"
+path="res://.godot/imported/houseSmall2.png-d2f69e22d55f5bd8e3d67909ab561d67.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Default/houseSmall2.png"
-dest_files=["res://.godot/imported/houseSmall2.png-cbad45c5d4780a5eff87b90f457ca4b5.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Default/houseSmall2.png"
+dest_files=["res://.godot/imported/houseSmall2.png-d2f69e22d55f5bd8e3d67909ab561d67.ctex"]
 
 [params]
 

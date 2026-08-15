@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bauvcj88osxc3"
-path="res://.godot/imported/button square hover.png-d3f33f42de39385fd5fe1ad561a6ef04.ctex"
+path="res://.godot/imported/button square hover.png-c05e85e7c720b7de2259a55bfe0e0bc5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic white/button square hover.png"
-dest_files=["res://.godot/imported/button square hover.png-d3f33f42de39385fd5fe1ad561a6ef04.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic white/button square hover.png"
+dest_files=["res://.godot/imported/button square hover.png-c05e85e7c720b7de2259a55bfe0e0bc5.ctex"]
 
 [params]
 

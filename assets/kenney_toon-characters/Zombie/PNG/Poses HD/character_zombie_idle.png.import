@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cefnru8ymtiof"
-path="res://.godot/imported/character_zombie_idle.png-c7d2857cd3eef6c3eaad6dc8c572ecd4.ctex"
+path="res://.godot/imported/character_zombie_idle.png-cd00d9b14e6d6ef0b148a3fd83c78154.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Zombie/PNG/Poses HD/character_zombie_idle.png"
-dest_files=["res://.godot/imported/character_zombie_idle.png-c7d2857cd3eef6c3eaad6dc8c572ecd4.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Zombie/PNG/Poses HD/character_zombie_idle.png"
+dest_files=["res://.godot/imported/character_zombie_idle.png-cd00d9b14e6d6ef0b148a3fd83c78154.ctex"]
 
 [params]
 

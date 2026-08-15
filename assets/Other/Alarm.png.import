@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3iybub5ecq7p"
-path="res://.godot/imported/Alarm.png-e3897a4a7658bc61770fba4930ccd4e4.ctex"
+path="res://.godot/imported/Alarm.png-ee4f11136a3b3056ae1a9eb1d12483c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Other/Alarm.png"
-dest_files=["res://.godot/imported/Alarm.png-e3897a4a7658bc61770fba4930ccd4e4.ctex"]
+source_file="res://add/assets/Other/Alarm.png"
+dest_files=["res://.godot/imported/Alarm.png-ee4f11136a3b3056ae1a9eb1d12483c8.ctex"]
 
 [params]
 

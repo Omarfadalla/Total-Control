@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5f1rm224fwi"
-path="res://.godot/imported/character_robot_switch0.png-c1cbe48398d8f6f875d970ba9283a6be.ctex"
+path="res://.godot/imported/character_robot_switch0.png-4f12928814bc12b4e47429a364af6656.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Robot/PNG/Poses/character_robot_switch0.png"
-dest_files=["res://.godot/imported/character_robot_switch0.png-c1cbe48398d8f6f875d970ba9283a6be.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Robot/PNG/Poses/character_robot_switch0.png"
+dest_files=["res://.godot/imported/character_robot_switch0.png-4f12928814bc12b4e47429a364af6656.ctex"]
 
 [params]
 

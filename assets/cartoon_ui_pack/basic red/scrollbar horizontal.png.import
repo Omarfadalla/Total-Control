@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by33vedywn8e8"
-path="res://.godot/imported/scrollbar horizontal.png-e22b3843ed5f7d62d734cc2a7205d432.ctex"
+path="res://.godot/imported/scrollbar horizontal.png-e1a60e6f013319d02afe9754f9cab632.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic red/scrollbar horizontal.png"
-dest_files=["res://.godot/imported/scrollbar horizontal.png-e22b3843ed5f7d62d734cc2a7205d432.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic red/scrollbar horizontal.png"
+dest_files=["res://.godot/imported/scrollbar horizontal.png-e1a60e6f013319d02afe9754f9cab632.ctex"]
 
 [params]
 

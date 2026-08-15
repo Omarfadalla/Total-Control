@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cga4560t86ew8"
-path="res://.godot/imported/character_maleAdventurer_idle.png-8f2060523c6786fd2d965dc76ad7c494.ctex"
+path="res://.godot/imported/character_maleAdventurer_idle.png-6f91cc1ed40d15e6bf4eafa3ea16edf7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Male adventurer/PNG/Poses/character_maleAdventurer_idle.png"
-dest_files=["res://.godot/imported/character_maleAdventurer_idle.png-8f2060523c6786fd2d965dc76ad7c494.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Male adventurer/PNG/Poses/character_maleAdventurer_idle.png"
+dest_files=["res://.godot/imported/character_maleAdventurer_idle.png-6f91cc1ed40d15e6bf4eafa3ea16edf7.ctex"]
 
 [params]
 

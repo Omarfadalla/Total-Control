@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://boasu02rjt0y6"
-path="res://.godot/imported/woman_cycle.png-463a813a4e6178537ce49e6f574976be.ctex"
+path="res://.godot/imported/woman_cycle.png-88b5347a1f733aa596f7dc322a6676f9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Characters/woman_cycle.png"
-dest_files=["res://.godot/imported/woman_cycle.png-463a813a4e6178537ce49e6f574976be.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Characters/woman_cycle.png"
+dest_files=["res://.godot/imported/woman_cycle.png-88b5347a1f733aa596f7dc322a6676f9.ctex"]
 
 [params]
 

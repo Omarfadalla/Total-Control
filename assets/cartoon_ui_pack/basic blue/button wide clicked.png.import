@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq6fauy52pgfg"
-path="res://.godot/imported/button wide clicked.png-1a259e041af4a22edcb546ccd5929366.ctex"
+path="res://.godot/imported/button wide clicked.png-19844431c008cd2bda8feb8f46cf613c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic blue/button wide clicked.png"
-dest_files=["res://.godot/imported/button wide clicked.png-1a259e041af4a22edcb546ccd5929366.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic blue/button wide clicked.png"
+dest_files=["res://.godot/imported/button wide clicked.png-19844431c008cd2bda8feb8f46cf613c.ctex"]
 
 [params]
 

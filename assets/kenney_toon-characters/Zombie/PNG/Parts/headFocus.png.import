@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvac7xi17xnij"
-path="res://.godot/imported/headFocus.png-7a3015c7990259c886430dd26803e58e.ctex"
+path="res://.godot/imported/headFocus.png-8d3f057cab25e21d6d2577cb8f0e6a45.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Zombie/PNG/Parts/headFocus.png"
-dest_files=["res://.godot/imported/headFocus.png-7a3015c7990259c886430dd26803e58e.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Zombie/PNG/Parts/headFocus.png"
+dest_files=["res://.godot/imported/headFocus.png-8d3f057cab25e21d6d2577cb8f0e6a45.ctex"]
 
 [params]
 

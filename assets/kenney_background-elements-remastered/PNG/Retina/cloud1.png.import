@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjgntv2k4lqii"
-path="res://.godot/imported/cloud1.png-9fe9f5949bcd4b82c3c27cf855f6bb40.ctex"
+path="res://.godot/imported/cloud1.png-dddd31e6cbb4950e48cd08544fe6e5ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Retina/cloud1.png"
-dest_files=["res://.godot/imported/cloud1.png-9fe9f5949bcd4b82c3c27cf855f6bb40.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Retina/cloud1.png"
+dest_files=["res://.godot/imported/cloud1.png-dddd31e6cbb4950e48cd08544fe6e5ea.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ef8u5xwdyxb5"
-path="res://.godot/imported/character_zombie_attack0.png-1e8cce8a329b0011219303e6fe298560.ctex"
+path="res://.godot/imported/character_zombie_attack0.png-2b640e9a48939d32a54e8fb196f57788.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Zombie/PNG/Poses HD/character_zombie_attack0.png"
-dest_files=["res://.godot/imported/character_zombie_attack0.png-1e8cce8a329b0011219303e6fe298560.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Zombie/PNG/Poses HD/character_zombie_attack0.png"
+dest_files=["res://.godot/imported/character_zombie_attack0.png-2b640e9a48939d32a54e8fb196f57788.ctex"]
 
 [params]
 

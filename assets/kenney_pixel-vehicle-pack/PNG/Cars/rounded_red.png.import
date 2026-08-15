@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djn077iidlis3"
-path="res://.godot/imported/rounded_red.png-b202bfda74682d52cf3c10640c295162.ctex"
+path="res://.godot/imported/rounded_red.png-85c849ee7a21e676cd6bc2218883f074.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/rounded_red.png"
-dest_files=["res://.godot/imported/rounded_red.png-b202bfda74682d52cf3c10640c295162.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/rounded_red.png"
+dest_files=["res://.godot/imported/rounded_red.png-85c849ee7a21e676cd6bc2218883f074.ctex"]
 
 [params]
 

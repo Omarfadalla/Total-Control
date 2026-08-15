@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://8thp88fhc512"
-path="res://.godot/imported/LoveYaLikeASister-Regular.ttf-2675dca4997465bbfba94b0ced2337c3.fontdata"
+path="res://.godot/imported/LoveYaLikeASister-Regular.ttf-2b30e42225cd8ebe26dbd86bcbcaabd5.fontdata"
 
 [deps]
 
-source_file="res://Fonts/LoveYaLikeASister-Regular.ttf"
-dest_files=["res://.godot/imported/LoveYaLikeASister-Regular.ttf-2675dca4997465bbfba94b0ced2337c3.fontdata"]
+source_file="res://add/Fonts/LoveYaLikeASister-Regular.ttf"
+dest_files=["res://.godot/imported/LoveYaLikeASister-Regular.ttf-2b30e42225cd8ebe26dbd86bcbcaabd5.fontdata"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwep85hxssrff"
-path="res://.godot/imported/bushAlt3.png-517f60ec8cd238ab87a8fe35edb6fdba.ctex"
+path="res://.godot/imported/bushAlt3.png-49401dee839e039f17cca93f611eb4f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Retina/bushAlt3.png"
-dest_files=["res://.godot/imported/bushAlt3.png-517f60ec8cd238ab87a8fe35edb6fdba.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Retina/bushAlt3.png"
+dest_files=["res://.godot/imported/bushAlt3.png-49401dee839e039f17cca93f611eb4f2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4rjdyd5nng0h"
-path="res://.godot/imported/character_femaleAdventurer_fall.png-a6eee3b54b5f155e6efe9e716b029199.ctex"
+path="res://.godot/imported/character_femaleAdventurer_fall.png-152ed072a1b76de2ca4e92a955a128a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Female adventurer/PNG/Poses/character_femaleAdventurer_fall.png"
-dest_files=["res://.godot/imported/character_femaleAdventurer_fall.png-a6eee3b54b5f155e6efe9e716b029199.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Female adventurer/PNG/Poses/character_femaleAdventurer_fall.png"
+dest_files=["res://.godot/imported/character_femaleAdventurer_fall.png-152ed072a1b76de2ca4e92a955a128a3.ctex"]
 
 [params]
 

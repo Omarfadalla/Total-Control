@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c220frs7e6y0a"
-path="res://.godot/imported/treePineSnow.png-da01f2a3bf61165bd29123007bcb4896.ctex"
+path="res://.godot/imported/treePineSnow.png-9ec9d9278b71755b85f6953ca353da46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Default/treePineSnow.png"
-dest_files=["res://.godot/imported/treePineSnow.png-da01f2a3bf61165bd29123007bcb4896.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Default/treePineSnow.png"
+dest_files=["res://.godot/imported/treePineSnow.png-9ec9d9278b71755b85f6953ca353da46.ctex"]
 
 [params]
 

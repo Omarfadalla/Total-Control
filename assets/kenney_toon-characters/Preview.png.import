@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qtha0y73m06s"
-path="res://.godot/imported/Preview.png-4e691526423f2a1bd7167082b8074462.ctex"
+path="res://.godot/imported/Preview.png-6b44c5984572e4e688841f69a2c9f525.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Preview.png"
-dest_files=["res://.godot/imported/Preview.png-4e691526423f2a1bd7167082b8074462.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Preview.png"
+dest_files=["res://.godot/imported/Preview.png-6b44c5984572e4e688841f69a2c9f525.ctex"]
 
 [params]
 

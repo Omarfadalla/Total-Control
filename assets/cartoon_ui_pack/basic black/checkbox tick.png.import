@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcmnca2japbib"
-path="res://.godot/imported/checkbox tick.png-38c4668abf3dc2624b4e0e47ab9fe1c6.ctex"
+path="res://.godot/imported/checkbox tick.png-4804a46f0fd9ff8b22c166bdba2c83dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic black/checkbox tick.png"
-dest_files=["res://.godot/imported/checkbox tick.png-38c4668abf3dc2624b4e0e47ab9fe1c6.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic black/checkbox tick.png"
+dest_files=["res://.godot/imported/checkbox tick.png-4804a46f0fd9ff8b22c166bdba2c83dc.ctex"]
 
 [params]
 

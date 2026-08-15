@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bildik6ar76g"
-path="res://.godot/imported/pop up window.png-9e958c1f19a73bca3963ae6edeeaac25.ctex"
+path="res://.godot/imported/pop up window.png-92251faea197117515d413f41995875a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/metal/pop up window.png"
-dest_files=["res://.godot/imported/pop up window.png-9e958c1f19a73bca3963ae6edeeaac25.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/metal/pop up window.png"
+dest_files=["res://.godot/imported/pop up window.png-92251faea197117515d413f41995875a.ctex"]
 
 [params]
 

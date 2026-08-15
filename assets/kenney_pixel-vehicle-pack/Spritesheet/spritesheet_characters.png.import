@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coji8xfmbhb53"
-path="res://.godot/imported/spritesheet_characters.png-3a4ed2c59a397428ebe88370b2d151c3.ctex"
+path="res://.godot/imported/spritesheet_characters.png-d47b442f6e278f01e08a63d053e9efcd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/Spritesheet/spritesheet_characters.png"
-dest_files=["res://.godot/imported/spritesheet_characters.png-3a4ed2c59a397428ebe88370b2d151c3.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/Spritesheet/spritesheet_characters.png"
+dest_files=["res://.godot/imported/spritesheet_characters.png-d47b442f6e278f01e08a63d053e9efcd.ctex"]
 
 [params]
 

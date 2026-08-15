@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vrb1uwtov64x"
-path="res://.godot/imported/treeSmall_greenAlt1.png-73c706af707a1a266ae21a9e9bbe4750.ctex"
+path="res://.godot/imported/treeSmall_greenAlt1.png-18d8cefccf57d205859506c8f92c0c8b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Retina/treeSmall_greenAlt1.png"
-dest_files=["res://.godot/imported/treeSmall_greenAlt1.png-73c706af707a1a266ae21a9e9bbe4750.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Retina/treeSmall_greenAlt1.png"
+dest_files=["res://.godot/imported/treeSmall_greenAlt1.png-18d8cefccf57d205859506c8f92c0c8b.ctex"]
 
 [params]
 

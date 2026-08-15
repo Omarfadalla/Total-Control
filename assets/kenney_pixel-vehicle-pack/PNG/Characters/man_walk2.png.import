@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1015wftnne6u"
-path="res://.godot/imported/man_walk2.png-88bb98c64d2db44836f38910afb31f94.ctex"
+path="res://.godot/imported/man_walk2.png-5aa89633bd069bf001dd4c053138bd7e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Characters/man_walk2.png"
-dest_files=["res://.godot/imported/man_walk2.png-88bb98c64d2db44836f38910afb31f94.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Characters/man_walk2.png"
+dest_files=["res://.godot/imported/man_walk2.png-5aa89633bd069bf001dd4c053138bd7e.ctex"]
 
 [params]
 

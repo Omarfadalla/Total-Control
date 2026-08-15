@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1lavujji7iew"
-path="res://.godot/imported/character_femalePerson_switch1.png-2abe1d755009b3efb01bec0c9243bfe8.ctex"
+path="res://.godot/imported/character_femalePerson_switch1.png-82f054ca21a203cd4e8e17a69c59c3f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Female person/PNG/Poses/character_femalePerson_switch1.png"
-dest_files=["res://.godot/imported/character_femalePerson_switch1.png-2abe1d755009b3efb01bec0c9243bfe8.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Female person/PNG/Poses/character_femalePerson_switch1.png"
+dest_files=["res://.godot/imported/character_femalePerson_switch1.png-82f054ca21a203cd4e8e17a69c59c3f8.ctex"]
 
 [params]
 

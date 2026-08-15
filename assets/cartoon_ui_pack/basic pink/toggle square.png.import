@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr1s3bspkbr3b"
-path="res://.godot/imported/toggle square.png-7effad304839b24721fbf045fa8a8851.ctex"
+path="res://.godot/imported/toggle square.png-83610cba9924116298d13aa41734927c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic pink/toggle square.png"
-dest_files=["res://.godot/imported/toggle square.png-7effad304839b24721fbf045fa8a8851.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic pink/toggle square.png"
+dest_files=["res://.godot/imported/toggle square.png-83610cba9924116298d13aa41734927c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chkc4fbytpgy0"
-path="res://.godot/imported/woman_kart.png-9ac6a8a11067b17c68074d10f81a091a.ctex"
+path="res://.godot/imported/woman_kart.png-ba23fbf7eb6edcfba41f2a088cf35da7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Characters/woman_kart.png"
-dest_files=["res://.godot/imported/woman_kart.png-9ac6a8a11067b17c68074d10f81a091a.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Characters/woman_kart.png"
+dest_files=["res://.godot/imported/woman_kart.png-ba23fbf7eb6edcfba41f2a088cf35da7.ctex"]
 
 [params]
 

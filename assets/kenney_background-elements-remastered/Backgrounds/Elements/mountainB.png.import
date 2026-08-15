@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hqvg6ahn4d8m"
-path="res://.godot/imported/mountainB.png-00b2f7e1f378ad7fb642632126128634.ctex"
+path="res://.godot/imported/mountainB.png-5fef0c804dac9d867b6fa372d92058e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/Backgrounds/Elements/mountainB.png"
-dest_files=["res://.godot/imported/mountainB.png-00b2f7e1f378ad7fb642632126128634.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/Backgrounds/Elements/mountainB.png"
+dest_files=["res://.godot/imported/mountainB.png-5fef0c804dac9d867b6fa372d92058e4.ctex"]
 
 [params]
 

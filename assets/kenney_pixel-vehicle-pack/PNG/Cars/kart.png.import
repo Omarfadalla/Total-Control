@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyi688ciwru1x"
-path="res://.godot/imported/kart.png-c85fccc6f21907646607db2a3c31180b.ctex"
+path="res://.godot/imported/kart.png-cd36aba728a7058ea0edc879b257ab21.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/kart.png"
-dest_files=["res://.godot/imported/kart.png-c85fccc6f21907646607db2a3c31180b.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/kart.png"
+dest_files=["res://.godot/imported/kart.png-cd36aba728a7058ea0edc879b257ab21.ctex"]
 
 [params]
 

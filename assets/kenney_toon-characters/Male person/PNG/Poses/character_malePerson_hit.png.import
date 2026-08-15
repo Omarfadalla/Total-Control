@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://caq7r1ak1pjac"
-path="res://.godot/imported/character_malePerson_hit.png-453c7005e2024687ff4a3e2bb11b6f44.ctex"
+path="res://.godot/imported/character_malePerson_hit.png-6a11da45b5a48307debca799455b64fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Male person/PNG/Poses/character_malePerson_hit.png"
-dest_files=["res://.godot/imported/character_malePerson_hit.png-453c7005e2024687ff4a3e2bb11b6f44.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Male person/PNG/Poses/character_malePerson_hit.png"
+dest_files=["res://.godot/imported/character_malePerson_hit.png-6a11da45b5a48307debca799455b64fd.ctex"]
 
 [params]
 

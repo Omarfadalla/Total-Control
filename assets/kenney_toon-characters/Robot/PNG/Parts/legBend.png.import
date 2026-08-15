@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddfb4mwtgjpqp"
-path="res://.godot/imported/legBend.png-6ea1fd23643e8ed3d09fd730ebdede57.ctex"
+path="res://.godot/imported/legBend.png-1cd0814f468f219f073d679bae42acee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Robot/PNG/Parts/legBend.png"
-dest_files=["res://.godot/imported/legBend.png-6ea1fd23643e8ed3d09fd730ebdede57.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Robot/PNG/Parts/legBend.png"
+dest_files=["res://.godot/imported/legBend.png-1cd0814f468f219f073d679bae42acee.ctex"]
 
 [params]
 

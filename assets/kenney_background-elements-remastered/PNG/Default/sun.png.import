@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mqt4suvelvi"
-path="res://.godot/imported/sun.png-d9f6bcee2d43115d28c0e172f5440a8c.ctex"
+path="res://.godot/imported/sun.png-40ad889afe09aa7ec95e8cab09036d4c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Default/sun.png"
-dest_files=["res://.godot/imported/sun.png-d9f6bcee2d43115d28c0e172f5440a8c.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Default/sun.png"
+dest_files=["res://.godot/imported/sun.png-40ad889afe09aa7ec95e8cab09036d4c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjqwnspjsrbxi"
-path="res://.godot/imported/sedan_vintage.png-fc7ac71ee0bfa0e0a26678a256f19091.ctex"
+path="res://.godot/imported/sedan_vintage.png-151f2d2015df782943ee4c5bdc503762.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/sedan_vintage.png"
-dest_files=["res://.godot/imported/sedan_vintage.png-fc7ac71ee0bfa0e0a26678a256f19091.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/sedan_vintage.png"
+dest_files=["res://.godot/imported/sedan_vintage.png-151f2d2015df782943ee4c5bdc503762.ctex"]
 
 [params]
 

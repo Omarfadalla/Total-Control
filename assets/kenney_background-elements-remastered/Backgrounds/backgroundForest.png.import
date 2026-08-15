@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7yfd5dspmhyv"
-path="res://.godot/imported/backgroundForest.png-837cdce2a0f18bc921b8fd3cb9c64ddd.ctex"
+path="res://.godot/imported/backgroundForest.png-8a2aa4c952f64400814fb1ac234f071e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/Backgrounds/backgroundForest.png"
-dest_files=["res://.godot/imported/backgroundForest.png-837cdce2a0f18bc921b8fd3cb9c64ddd.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/Backgrounds/backgroundForest.png"
+dest_files=["res://.godot/imported/backgroundForest.png-8a2aa4c952f64400814fb1ac234f071e.ctex"]
 
 [params]
 

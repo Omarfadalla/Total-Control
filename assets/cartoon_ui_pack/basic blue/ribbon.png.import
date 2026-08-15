@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://osok663w0kqh"
-path="res://.godot/imported/ribbon.png-888fd9b20eae3bb59b9863576bfab532.ctex"
+path="res://.godot/imported/ribbon.png-4cfb478a4f657a101918be5861cf5e8a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic blue/ribbon.png"
-dest_files=["res://.godot/imported/ribbon.png-888fd9b20eae3bb59b9863576bfab532.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic blue/ribbon.png"
+dest_files=["res://.godot/imported/ribbon.png-4cfb478a4f657a101918be5861cf5e8a.ctex"]
 
 [params]
 

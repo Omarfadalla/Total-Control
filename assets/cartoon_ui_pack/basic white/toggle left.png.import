@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bes7nqdf1hr7g"
-path="res://.godot/imported/toggle left.png-ae33571b7f631f0876eb256fd058c004.ctex"
+path="res://.godot/imported/toggle left.png-b5394211763c6faaa738e5b702c400ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic white/toggle left.png"
-dest_files=["res://.godot/imported/toggle left.png-ae33571b7f631f0876eb256fd058c004.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic white/toggle left.png"
+dest_files=["res://.godot/imported/toggle left.png-b5394211763c6faaa738e5b702c400ea.ctex"]
 
 [params]
 

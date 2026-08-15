@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bunyuliari5sh"
-path="res://.godot/imported/character_malePerson_shove.png-442a636d0e7689b4d4676eb93a2ea02e.ctex"
+path="res://.godot/imported/character_malePerson_shove.png-f5b0425d0a6279e8c87aff394c4440fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Male person/PNG/Poses HD/character_malePerson_shove.png"
-dest_files=["res://.godot/imported/character_malePerson_shove.png-442a636d0e7689b4d4676eb93a2ea02e.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Male person/PNG/Poses HD/character_malePerson_shove.png"
+dest_files=["res://.godot/imported/character_malePerson_shove.png-f5b0425d0a6279e8c87aff394c4440fc.ctex"]
 
 [params]
 

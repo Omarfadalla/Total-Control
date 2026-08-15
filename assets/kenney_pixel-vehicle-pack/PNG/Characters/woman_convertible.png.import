@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cl2kx6mv5pooo"
-path="res://.godot/imported/woman_convertible.png-1e94b8cb2567ff7428ebdbccc7dbaa11.ctex"
+path="res://.godot/imported/woman_convertible.png-d36508004c3440e073df99dd2da11bc2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Characters/woman_convertible.png"
-dest_files=["res://.godot/imported/woman_convertible.png-1e94b8cb2567ff7428ebdbccc7dbaa11.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Characters/woman_convertible.png"
+dest_files=["res://.godot/imported/woman_convertible.png-d36508004c3440e073df99dd2da11bc2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5i1ie5avaijc"
-path="res://.godot/imported/icons home.png-6104f79da67fd7e0c995cc2dab9c7893.ctex"
+path="res://.godot/imported/icons home.png-c31a036f55d42d4701e2a13af49f54f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic yellow/icons home.png"
-dest_files=["res://.godot/imported/icons home.png-6104f79da67fd7e0c995cc2dab9c7893.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic yellow/icons home.png"
+dest_files=["res://.godot/imported/icons home.png-c31a036f55d42d4701e2a13af49f54f4.ctex"]
 
 [params]
 

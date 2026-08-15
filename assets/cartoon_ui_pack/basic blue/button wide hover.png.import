@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byaqhh1opqdd5"
-path="res://.godot/imported/button wide hover.png-6fb3601babe251fdc871953995526a59.ctex"
+path="res://.godot/imported/button wide hover.png-313ed0df871156c470d9477cfc3c12cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic blue/button wide hover.png"
-dest_files=["res://.godot/imported/button wide hover.png-6fb3601babe251fdc871953995526a59.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic blue/button wide hover.png"
+dest_files=["res://.godot/imported/button wide hover.png-313ed0df871156c470d9477cfc3c12cc.ctex"]
 
 [params]
 

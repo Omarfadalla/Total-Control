@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clbvmmoeeiqy2"
-path="res://.godot/imported/character_robot_climb0.png-4773ace23f777f98e1a072da95da9bc2.ctex"
+path="res://.godot/imported/character_robot_climb0.png-28c1232cfb7e7aba3aebb4d378b55109.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Robot/PNG/Poses HD/character_robot_climb0.png"
-dest_files=["res://.godot/imported/character_robot_climb0.png-4773ace23f777f98e1a072da95da9bc2.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Robot/PNG/Poses HD/character_robot_climb0.png"
+dest_files=["res://.godot/imported/character_robot_climb0.png-28c1232cfb7e7aba3aebb4d378b55109.ctex"]
 
 [params]
 

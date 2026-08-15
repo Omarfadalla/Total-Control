@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctrj08d5x2f8h"
-path="res://.godot/imported/character_femalePerson.svg-db1e4d8adc4fdd4544ee40e473cbbdea.ctex"
+path="res://.godot/imported/character_femalePerson.svg-7bfe63da6b6c135f27ef7df7c3b8976e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Female person/Vector/character_femalePerson.svg"
-dest_files=["res://.godot/imported/character_femalePerson.svg-db1e4d8adc4fdd4544ee40e473cbbdea.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Female person/Vector/character_femalePerson.svg"
+dest_files=["res://.godot/imported/character_femalePerson.svg-7bfe63da6b6c135f27ef7df7c3b8976e.ctex"]
 
 [params]
 

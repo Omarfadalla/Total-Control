@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctlfm08l7j0sr"
-path="res://.godot/imported/toggle box.png-350525aeb0f5d233fb42ed6242b3d39a.ctex"
+path="res://.godot/imported/toggle box.png-0629fe1dee840211031c9613dc9b52bf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic red/toggle box.png"
-dest_files=["res://.godot/imported/toggle box.png-350525aeb0f5d233fb42ed6242b3d39a.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic red/toggle box.png"
+dest_files=["res://.godot/imported/toggle box.png-0629fe1dee840211031c9613dc9b52bf.ctex"]
 
 [params]
 

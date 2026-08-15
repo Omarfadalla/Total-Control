@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://befo4yb3fw65l"
-path="res://.godot/imported/backgroundColorDesert.png-1124fc09ae5716598c854f6bc97f8bde.ctex"
+path="res://.godot/imported/backgroundColorDesert.png-18a4ff9d26fdda9a0e4a649bee1d5db3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/Backgrounds/backgroundColorDesert.png"
-dest_files=["res://.godot/imported/backgroundColorDesert.png-1124fc09ae5716598c854f6bc97f8bde.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/Backgrounds/backgroundColorDesert.png"
+dest_files=["res://.godot/imported/backgroundColorDesert.png-18a4ff9d26fdda9a0e4a649bee1d5db3.ctex"]
 
 [params]
 

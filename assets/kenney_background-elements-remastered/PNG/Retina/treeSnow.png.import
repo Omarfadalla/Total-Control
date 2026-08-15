@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cu2wfaeltjtat"
-path="res://.godot/imported/treeSnow.png-e2979b9403674150e336477d68f40375.ctex"
+path="res://.godot/imported/treeSnow.png-22bae30a427a898ae355b83630bc5293.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Retina/treeSnow.png"
-dest_files=["res://.godot/imported/treeSnow.png-e2979b9403674150e336477d68f40375.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Retina/treeSnow.png"
+dest_files=["res://.godot/imported/treeSnow.png-22bae30a427a898ae355b83630bc5293.ctex"]
 
 [params]
 

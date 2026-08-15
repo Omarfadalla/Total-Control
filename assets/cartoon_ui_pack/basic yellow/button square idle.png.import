@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cda8vhl313rme"
-path="res://.godot/imported/button square idle.png-5829b7cf4a3fa95e203c9665811b9a24.ctex"
+path="res://.godot/imported/button square idle.png-a08f90c4365c43b85e301af8cf2d87aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic yellow/button square idle.png"
-dest_files=["res://.godot/imported/button square idle.png-5829b7cf4a3fa95e203c9665811b9a24.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic yellow/button square idle.png"
+dest_files=["res://.godot/imported/button square idle.png-a08f90c4365c43b85e301af8cf2d87aa.ctex"]
 
 [params]
 

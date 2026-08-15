@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://biqwrt32niw3h"
-path="res://.godot/imported/head.png-6b3659a7fe8681a0b3f96ce666189946.ctex"
+path="res://.godot/imported/head.png-50c68f66accb8adfcffe4e99e902659b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Male adventurer/PNG/Parts/head.png"
-dest_files=["res://.godot/imported/head.png-6b3659a7fe8681a0b3f96ce666189946.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Male adventurer/PNG/Parts/head.png"
+dest_files=["res://.godot/imported/head.png-50c68f66accb8adfcffe4e99e902659b.ctex"]
 
 [params]
 
