@@ -26,7 +26,7 @@ softness = 0.8
 [node name="Wheel" parent="WheelHolder2" unique_id=1107449320 instance=ExtResource("2_g2els")]
 position = Vector2(-1, 0)
 
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=2147342606]
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1206255702]
 texture = ExtResource("1_3vyb7")
 
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="." unique_id=954504225]

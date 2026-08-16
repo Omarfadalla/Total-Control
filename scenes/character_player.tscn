@@ -1,0 +1,31 @@
+[gd_scene format=3 uid="uid://btj6rdmo3vyhh"]
+
+[ext_resource type="Texture2D" uid="uid://bclaq6ij5crl2" path="res://player_bodyparts/right_shoe.png" id="2_mc5b1"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_njumh"]
+size = Vector2(54, 38)
+
+[node name="Character_Player" type="Node2D" unique_id=514134763]
+
+[node name="right_shoe" type="RigidBody2D" parent="." unique_id=1422507114]
+
+[node name="Sprite2D" type="Sprite2D" parent="right_shoe" unique_id=1431369944]
+position = Vector2(-516, -422)
+texture = ExtResource("2_mc5b1")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="right_shoe" unique_id=407165854]
+position = Vector2(76, -4)
+shape = SubResource("RectangleShape2D_njumh")
+debug_color = Color(0.902696, 0.25315294, 0.4583664, 0.41960785)
+
+[node name="right_shoe2" type="RigidBody2D" parent="." unique_id=1661915723]
+position = Vector2(-77, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="right_shoe2" unique_id=1584582329]
+position = Vector2(-516, -422)
+texture = ExtResource("2_mc5b1")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="right_shoe2" unique_id=555483689]
+position = Vector2(76, -4)
+shape = SubResource("RectangleShape2D_njumh")
+debug_color = Color(0.902696, 0.25315294, 0.4583664, 0.41960785)
