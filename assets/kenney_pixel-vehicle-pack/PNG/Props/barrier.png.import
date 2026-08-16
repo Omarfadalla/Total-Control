@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rakjmxxkcafe"
-path="res://.godot/imported/barrier.png-02ab2e2c11b70ba851f5f3fe513d3f38.ctex"
+path="res://.godot/imported/barrier.png-2274ae12f7f38e2c91582c7f005f86d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Props/barrier.png"
-dest_files=["res://.godot/imported/barrier.png-02ab2e2c11b70ba851f5f3fe513d3f38.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Props/barrier.png"
+dest_files=["res://.godot/imported/barrier.png-2274ae12f7f38e2c91582c7f005f86d2.ctex"]
 
 [params]
 

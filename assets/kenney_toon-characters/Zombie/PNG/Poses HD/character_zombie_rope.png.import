@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ikvj1n5ottna"
-path="res://.godot/imported/character_zombie_rope.png-b4e55fda121ea6ea05fc2ff7ee8dee25.ctex"
+path="res://.godot/imported/character_zombie_rope.png-d02c5d3349277b44bec479167585cb23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Zombie/PNG/Poses HD/character_zombie_rope.png"
-dest_files=["res://.godot/imported/character_zombie_rope.png-b4e55fda121ea6ea05fc2ff7ee8dee25.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Zombie/PNG/Poses HD/character_zombie_rope.png"
+dest_files=["res://.godot/imported/character_zombie_rope.png-d02c5d3349277b44bec479167585cb23.ctex"]
 
 [params]
 

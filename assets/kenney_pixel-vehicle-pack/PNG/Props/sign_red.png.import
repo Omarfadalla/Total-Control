@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccul4kij72nta"
-path="res://.godot/imported/sign_red.png-cb6fdcda9899f5a1dc11ce0a7eb6ae15.ctex"
+path="res://.godot/imported/sign_red.png-c2caf24f04dc392ce97f2dbb397e4358.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Props/sign_red.png"
-dest_files=["res://.godot/imported/sign_red.png-cb6fdcda9899f5a1dc11ce0a7eb6ae15.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Props/sign_red.png"
+dest_files=["res://.godot/imported/sign_red.png-c2caf24f04dc392ce97f2dbb397e4358.ctex"]
 
 [params]
 

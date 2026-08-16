@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5a6vnar1a724"
-path="res://.godot/imported/button square clicked.png-71908bdff1de59789e1617b0729d8d12.ctex"
+path="res://.godot/imported/button square clicked.png-e690a1422c9d5d0c5073de5ebf703745.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic red/button square clicked.png"
-dest_files=["res://.godot/imported/button square clicked.png-71908bdff1de59789e1617b0729d8d12.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic red/button square clicked.png"
+dest_files=["res://.godot/imported/button square clicked.png-e690a1422c9d5d0c5073de5ebf703745.ctex"]
 
 [params]
 

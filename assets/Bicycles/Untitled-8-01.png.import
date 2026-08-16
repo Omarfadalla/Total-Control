@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d5vbk0iyu3pj"
-path="res://.godot/imported/Untitled-8-01.png-322d2cf6aed074896fed8258c530a7b7.ctex"
+path="res://.godot/imported/Untitled-8-01.png-480ae72125154f1748d240d81c507604.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Bicycles/Untitled-8-01.png"
-dest_files=["res://.godot/imported/Untitled-8-01.png-322d2cf6aed074896fed8258c530a7b7.ctex"]
+source_file="res://add/assets/Bicycles/Untitled-8-01.png"
+dest_files=["res://.godot/imported/Untitled-8-01.png-480ae72125154f1748d240d81c507604.ctex"]
 
 [params]
 

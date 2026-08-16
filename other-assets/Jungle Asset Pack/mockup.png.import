@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coy6qqcrkqywu"
-path="res://.godot/imported/mockup.png-6a5ebf490e454fa7eaf391e99ff6b0b8.ctex"
+path="res://.godot/imported/mockup.png-15fdbd38d86af8a729fddbcb7e9144d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://other-assets/Jungle Asset Pack/mockup.png"
-dest_files=["res://.godot/imported/mockup.png-6a5ebf490e454fa7eaf391e99ff6b0b8.ctex"]
+source_file="res://add/other-assets/Jungle Asset Pack/mockup.png"
+dest_files=["res://.godot/imported/mockup.png-15fdbd38d86af8a729fddbcb7e9144d4.ctex"]
 
 [params]
 

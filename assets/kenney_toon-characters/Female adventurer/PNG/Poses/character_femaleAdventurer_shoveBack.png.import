@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw8djcs3wi2bl"
-path="res://.godot/imported/character_femaleAdventurer_shoveBack.png-44c5fabe1daaca7e01f5c4dc9b82e735.ctex"
+path="res://.godot/imported/character_femaleAdventurer_shoveBack.png-6cabe6bb74915f2aa5c4bee7ded45498.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Female adventurer/PNG/Poses/character_femaleAdventurer_shoveBack.png"
-dest_files=["res://.godot/imported/character_femaleAdventurer_shoveBack.png-44c5fabe1daaca7e01f5c4dc9b82e735.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Female adventurer/PNG/Poses/character_femaleAdventurer_shoveBack.png"
+dest_files=["res://.godot/imported/character_femaleAdventurer_shoveBack.png-6cabe6bb74915f2aa5c4bee7ded45498.ctex"]
 
 [params]
 

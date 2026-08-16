@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2qdp0jb2wxw3"
-path="res://.godot/imported/man_point.png-96240333873de3ef5c2f299c26505b03.ctex"
+path="res://.godot/imported/man_point.png-9f2ceaf6a07811ffd7205676b031f1f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Characters/man_point.png"
-dest_files=["res://.godot/imported/man_point.png-96240333873de3ef5c2f299c26505b03.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Characters/man_point.png"
+dest_files=["res://.godot/imported/man_point.png-9f2ceaf6a07811ffd7205676b031f1f2.ctex"]
 
 [params]
 

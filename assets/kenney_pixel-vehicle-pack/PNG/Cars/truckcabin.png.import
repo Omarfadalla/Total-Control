@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4g1yet2lunrv"
-path="res://.godot/imported/truckcabin.png-1fdc333d689daf0fbc65a9aa9c0a85bf.ctex"
+path="res://.godot/imported/truckcabin.png-5db032de8bb60c2b9aa0641f693838b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/truckcabin.png"
-dest_files=["res://.godot/imported/truckcabin.png-1fdc333d689daf0fbc65a9aa9c0a85bf.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/truckcabin.png"
+dest_files=["res://.godot/imported/truckcabin.png-5db032de8bb60c2b9aa0641f693838b2.ctex"]
 
 [params]
 

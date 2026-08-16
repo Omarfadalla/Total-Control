@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfbht4rly38gj"
-path="res://.godot/imported/character_femalePerson_attack0.png-de1d8ec61db09ae654be23b482b09130.ctex"
+path="res://.godot/imported/character_femalePerson_attack0.png-f942360d3afd4112a9d4da7f9dbfdc59.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Female person/PNG/Poses HD/character_femalePerson_attack0.png"
-dest_files=["res://.godot/imported/character_femalePerson_attack0.png-de1d8ec61db09ae654be23b482b09130.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Female person/PNG/Poses HD/character_femalePerson_attack0.png"
+dest_files=["res://.godot/imported/character_femalePerson_attack0.png-f942360d3afd4112a9d4da7f9dbfdc59.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5ypwl1l85ogb"
-path="res://.godot/imported/sports_convertible.png-4c1589edd4e1bebb6de11b0638fc8ce8.ctex"
+path="res://.godot/imported/sports_convertible.png-052e82cc4695acd4eebea9fff18a354a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/sports_convertible.png"
-dest_files=["res://.godot/imported/sports_convertible.png-4c1589edd4e1bebb6de11b0638fc8ce8.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/sports_convertible.png"
+dest_files=["res://.godot/imported/sports_convertible.png-052e82cc4695acd4eebea9fff18a354a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be3n14soebuh8"
-path="res://.godot/imported/character_robot_duck.png-fec8dacdb1d0e3e630072b9b72197918.ctex"
+path="res://.godot/imported/character_robot_duck.png-c87afc5f45be11a26d3c0b805fc8cb0d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Robot/PNG/Poses HD/character_robot_duck.png"
-dest_files=["res://.godot/imported/character_robot_duck.png-fec8dacdb1d0e3e630072b9b72197918.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Robot/PNG/Poses HD/character_robot_duck.png"
+dest_files=["res://.godot/imported/character_robot_duck.png-c87afc5f45be11a26d3c0b805fc8cb0d.ctex"]
 
 [params]
 

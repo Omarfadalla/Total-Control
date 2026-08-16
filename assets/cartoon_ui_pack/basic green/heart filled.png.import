@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dd4wxip073com"
-path="res://.godot/imported/heart filled.png-0bfdec6b7ceb906fa215fab6644c209d.ctex"
+path="res://.godot/imported/heart filled.png-eff66ead2c27983c96d25f43f756807c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic green/heart filled.png"
-dest_files=["res://.godot/imported/heart filled.png-0bfdec6b7ceb906fa215fab6644c209d.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic green/heart filled.png"
+dest_files=["res://.godot/imported/heart filled.png-eff66ead2c27983c96d25f43f756807c.ctex"]
 
 [params]
 

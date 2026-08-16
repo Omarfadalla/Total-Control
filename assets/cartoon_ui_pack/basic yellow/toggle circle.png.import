@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4chwv2rp82br"
-path="res://.godot/imported/toggle circle.png-2dd9ab0d052e7b588e6d91c7d2998fc7.ctex"
+path="res://.godot/imported/toggle circle.png-55876465342263e9752764b66b750a52.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic yellow/toggle circle.png"
-dest_files=["res://.godot/imported/toggle circle.png-2dd9ab0d052e7b588e6d91c7d2998fc7.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic yellow/toggle circle.png"
+dest_files=["res://.godot/imported/toggle circle.png-55876465342263e9752764b66b750a52.ctex"]
 
 [params]
 

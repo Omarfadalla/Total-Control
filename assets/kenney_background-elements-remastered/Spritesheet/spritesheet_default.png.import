@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq3jbwhqpagwk"
-path="res://.godot/imported/spritesheet_default.png-91a63a568015a13a7cfaa29c8333af7f.ctex"
+path="res://.godot/imported/spritesheet_default.png-636fa1af54c74bcf9dafe257e7bfd3c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/Spritesheet/spritesheet_default.png"
-dest_files=["res://.godot/imported/spritesheet_default.png-91a63a568015a13a7cfaa29c8333af7f.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/Spritesheet/spritesheet_default.png"
+dest_files=["res://.godot/imported/spritesheet_default.png-636fa1af54c74bcf9dafe257e7bfd3c0.ctex"]
 
 [params]
 

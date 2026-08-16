@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2m2rhknhi17m"
-path="res://.godot/imported/leg.png-9fae28a5f52c57b38f4c3ce2454cf336.ctex"
+path="res://.godot/imported/leg.png-24e009fc1c65c8f477c2163c5d589834.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Female adventurer/PNG/Parts HD/leg.png"
-dest_files=["res://.godot/imported/leg.png-9fae28a5f52c57b38f4c3ce2454cf336.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Female adventurer/PNG/Parts HD/leg.png"
+dest_files=["res://.godot/imported/leg.png-24e009fc1c65c8f477c2163c5d589834.ctex"]
 
 [params]
 

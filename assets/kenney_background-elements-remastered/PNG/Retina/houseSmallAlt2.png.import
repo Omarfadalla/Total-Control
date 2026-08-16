@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvb2clvt67v4u"
-path="res://.godot/imported/houseSmallAlt2.png-cf798c0883dbf4bb831f3eb56344b901.ctex"
+path="res://.godot/imported/houseSmallAlt2.png-e177130bf36f6144dad57c6aee6348f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Retina/houseSmallAlt2.png"
-dest_files=["res://.godot/imported/houseSmallAlt2.png-cf798c0883dbf4bb831f3eb56344b901.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Retina/houseSmallAlt2.png"
+dest_files=["res://.godot/imported/houseSmallAlt2.png-e177130bf36f6144dad57c6aee6348f4.ctex"]
 
 [params]
 

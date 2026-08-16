@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckw6s5ik5ogtq"
-path="res://.godot/imported/character_maleAdventurer_walk4.png-f4fa436d5d0c533737b26714c943beed.ctex"
+path="res://.godot/imported/character_maleAdventurer_walk4.png-0c7d5aae50569c4058c953dbbfadc1aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Male adventurer/PNG/Poses/character_maleAdventurer_walk4.png"
-dest_files=["res://.godot/imported/character_maleAdventurer_walk4.png-f4fa436d5d0c533737b26714c943beed.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Male adventurer/PNG/Poses/character_maleAdventurer_walk4.png"
+dest_files=["res://.godot/imported/character_maleAdventurer_walk4.png-0c7d5aae50569c4058c953dbbfadc1aa.ctex"]
 
 [params]
 

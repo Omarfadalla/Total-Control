@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuk8h0ig6ks43"
-path="res://.godot/imported/icon panel big.png-c1626c09468a4bb72a71467ac799b09d.ctex"
+path="res://.godot/imported/icon panel big.png-95e659ffebd35d095d9106cc77657637.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic green/icon panel big.png"
-dest_files=["res://.godot/imported/icon panel big.png-c1626c09468a4bb72a71467ac799b09d.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic green/icon panel big.png"
+dest_files=["res://.godot/imported/icon panel big.png-95e659ffebd35d095d9106cc77657637.ctex"]
 
 [params]
 

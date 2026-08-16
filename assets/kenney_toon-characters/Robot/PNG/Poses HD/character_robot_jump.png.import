@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgx0stpptk765"
-path="res://.godot/imported/character_robot_jump.png-040bb0479fbbc8756e1928cd942d6672.ctex"
+path="res://.godot/imported/character_robot_jump.png-d506874e5ff8a772286b03eb36683d8a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Robot/PNG/Poses HD/character_robot_jump.png"
-dest_files=["res://.godot/imported/character_robot_jump.png-040bb0479fbbc8756e1928cd942d6672.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Robot/PNG/Poses HD/character_robot_jump.png"
+dest_files=["res://.godot/imported/character_robot_jump.png-d506874e5ff8a772286b03eb36683d8a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct0iku3sux6ae"
-path="res://.godot/imported/treeDead.png-53d3e50c62b95aea67c690a774bbf10c.ctex"
+path="res://.godot/imported/treeDead.png-29e3f7b3219b9771eb7cc2042e88b0e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Default/treeDead.png"
-dest_files=["res://.godot/imported/treeDead.png-53d3e50c62b95aea67c690a774bbf10c.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Default/treeDead.png"
+dest_files=["res://.godot/imported/treeDead.png-29e3f7b3219b9771eb7cc2042e88b0e4.ctex"]
 
 [params]
 

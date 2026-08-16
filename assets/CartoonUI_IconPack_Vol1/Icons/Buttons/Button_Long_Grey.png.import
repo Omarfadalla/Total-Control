@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y5lgtjnpiebo"
-path="res://.godot/imported/Button_Long_Grey.png-529ef13a00fa8b274cdcc3b4a701535a.ctex"
+path="res://.godot/imported/Button_Long_Grey.png-eaaa5f98a1997c4c169b20fdfde000aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/CartoonUI_IconPack_Vol1/Icons/Buttons/Button_Long_Grey.png"
-dest_files=["res://.godot/imported/Button_Long_Grey.png-529ef13a00fa8b274cdcc3b4a701535a.ctex"]
+source_file="res://add/assets/CartoonUI_IconPack_Vol1/Icons/Buttons/Button_Long_Grey.png"
+dest_files=["res://.godot/imported/Button_Long_Grey.png-eaaa5f98a1997c4c169b20fdfde000aa.ctex"]
 
 [params]
 

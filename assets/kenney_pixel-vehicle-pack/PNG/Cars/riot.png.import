@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx4380egrmpqv"
-path="res://.godot/imported/riot.png-d8a22d81fe24651b53bd58f606567130.ctex"
+path="res://.godot/imported/riot.png-b857fed3ad4e74fede00899c099219f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/riot.png"
-dest_files=["res://.godot/imported/riot.png-d8a22d81fe24651b53bd58f606567130.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/riot.png"
+dest_files=["res://.godot/imported/riot.png-b857fed3ad4e74fede00899c099219f2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be0niok6rn1cp"
-path="res://.godot/imported/lightning empty.png-33ea169cb9c04e61716a2b17ec4419f4.ctex"
+path="res://.godot/imported/lightning empty.png-6614fc27d6f712c906f44c54c9033709.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic pink/lightning empty.png"
-dest_files=["res://.godot/imported/lightning empty.png-33ea169cb9c04e61716a2b17ec4419f4.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic pink/lightning empty.png"
+dest_files=["res://.godot/imported/lightning empty.png-6614fc27d6f712c906f44c54c9033709.ctex"]
 
 [params]
 

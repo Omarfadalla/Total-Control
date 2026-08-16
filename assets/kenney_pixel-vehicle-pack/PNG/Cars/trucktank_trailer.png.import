@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://biv1osy5xweca"
-path="res://.godot/imported/trucktank_trailer.png-7a845c0f0ec574e83ad0f8a12195e1c9.ctex"
+path="res://.godot/imported/trucktank_trailer.png-bd21d5eb381c748c35b177a4744eabe8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/trucktank_trailer.png"
-dest_files=["res://.godot/imported/trucktank_trailer.png-7a845c0f0ec574e83ad0f8a12195e1c9.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/trucktank_trailer.png"
+dest_files=["res://.godot/imported/trucktank_trailer.png-bd21d5eb381c748c35b177a4744eabe8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wpeatundubty"
-path="res://.godot/imported/sign_street.png-e5fdfa378ce1825cfa059b5e73768803.ctex"
+path="res://.godot/imported/sign_street.png-2c4ad2bc05a1250b7d4676a80fb22c38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Props/sign_street.png"
-dest_files=["res://.godot/imported/sign_street.png-e5fdfa378ce1825cfa059b5e73768803.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Props/sign_street.png"
+dest_files=["res://.godot/imported/sign_street.png-2c4ad2bc05a1250b7d4676a80fb22c38.ctex"]
 
 [params]
 

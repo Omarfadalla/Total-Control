@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwey6p0yhdspn"
-path="res://.godot/imported/character_maleAdventurer_duck.png-73232dc8d1d8f0168fd5e0ca44146c16.ctex"
+path="res://.godot/imported/character_maleAdventurer_duck.png-5c74b15eb316cbd3f9fc1bacb6f2c87b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Male adventurer/PNG/Poses HD/character_maleAdventurer_duck.png"
-dest_files=["res://.godot/imported/character_maleAdventurer_duck.png-73232dc8d1d8f0168fd5e0ca44146c16.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Male adventurer/PNG/Poses HD/character_maleAdventurer_duck.png"
+dest_files=["res://.godot/imported/character_maleAdventurer_duck.png-5c74b15eb316cbd3f9fc1bacb6f2c87b.ctex"]
 
 [params]
 

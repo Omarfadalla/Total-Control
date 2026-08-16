@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7lfgbwajnw3v"
-path="res://.godot/imported/headShock.png-2debcb4dd5aec518afe18acdc44f86e9.ctex"
+path="res://.godot/imported/headShock.png-b3eea9eadfa5021ab6e1077116b67bf7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Robot/PNG/Parts HD/headShock.png"
-dest_files=["res://.godot/imported/headShock.png-2debcb4dd5aec518afe18acdc44f86e9.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Robot/PNG/Parts HD/headShock.png"
+dest_files=["res://.godot/imported/headShock.png-b3eea9eadfa5021ab6e1077116b67bf7.ctex"]
 
 [params]
 

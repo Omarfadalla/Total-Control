@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br62jbclvdvl1"
-path="res://.godot/imported/character_femaleAdventurer_attackKick.png-c1c27f2fe11ed98de98e9d461a2ede8c.ctex"
+path="res://.godot/imported/character_femaleAdventurer_attackKick.png-81dd3f2014898ca621a09caa03d92689.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Female adventurer/PNG/Poses/character_femaleAdventurer_attackKick.png"
-dest_files=["res://.godot/imported/character_femaleAdventurer_attackKick.png-c1c27f2fe11ed98de98e9d461a2ede8c.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Female adventurer/PNG/Poses/character_femaleAdventurer_attackKick.png"
+dest_files=["res://.godot/imported/character_femaleAdventurer_attackKick.png-81dd3f2014898ca621a09caa03d92689.ctex"]
 
 [params]
 

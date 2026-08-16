@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mqsvdvvf2akk"
-path="res://.godot/imported/icons arrow down.png-d59125b071b130a613e5afcce327e535.ctex"
+path="res://.godot/imported/icons arrow down.png-dde01b37bb82fd51fc8f6b329d957f0c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic blue/icons arrow down.png"
-dest_files=["res://.godot/imported/icons arrow down.png-d59125b071b130a613e5afcce327e535.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic blue/icons arrow down.png"
+dest_files=["res://.godot/imported/icons arrow down.png-dde01b37bb82fd51fc8f6b329d957f0c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtkd4vwvka46y"
-path="res://.godot/imported/treeSmall_orange1.png-9bbe4cf08c898509d3cb41cf04a3f5f6.ctex"
+path="res://.godot/imported/treeSmall_orange1.png-baaec56af00f325c6a719ebe9f248edc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Retina/treeSmall_orange1.png"
-dest_files=["res://.godot/imported/treeSmall_orange1.png-9bbe4cf08c898509d3cb41cf04a3f5f6.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Retina/treeSmall_orange1.png"
+dest_files=["res://.godot/imported/treeSmall_orange1.png-baaec56af00f325c6a719ebe9f248edc.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4qc3f7mboe3c"
-path="res://.godot/imported/_spritesheet.png-2d83d4e33a3129385fd09a8a7f7beb92.ctex"
+path="res://.godot/imported/_spritesheet.png-0bd34103191ea3bc00eba31ead78dfe8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/sci fi/_spritesheet.png"
-dest_files=["res://.godot/imported/_spritesheet.png-2d83d4e33a3129385fd09a8a7f7beb92.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/sci fi/_spritesheet.png"
+dest_files=["res://.godot/imported/_spritesheet.png-0bd34103191ea3bc00eba31ead78dfe8.ctex"]
 
 [params]
 

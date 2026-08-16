@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2x0qexwrlqjv"
-path="res://.godot/imported/firetruck.png-1e215def07eac9bc425427c786d40f94.ctex"
+path="res://.godot/imported/firetruck.png-67998cb0b2ad01d0d59315ce84cac097.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/firetruck.png"
-dest_files=["res://.godot/imported/firetruck.png-1e215def07eac9bc425427c786d40f94.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/firetruck.png"
+dest_files=["res://.godot/imported/firetruck.png-67998cb0b2ad01d0d59315ce84cac097.ctex"]
 
 [params]
 

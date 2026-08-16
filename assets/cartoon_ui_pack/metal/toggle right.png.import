@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkr7vuy2hy6ce"
-path="res://.godot/imported/toggle right.png-91c750f6f8e469b6ace75881f94c9fff.ctex"
+path="res://.godot/imported/toggle right.png-35c2e22028df3335a3e8253d8c8fa98e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/metal/toggle right.png"
-dest_files=["res://.godot/imported/toggle right.png-91c750f6f8e469b6ace75881f94c9fff.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/metal/toggle right.png"
+dest_files=["res://.godot/imported/toggle right.png-35c2e22028df3335a3e8253d8c8fa98e.ctex"]
 
 [params]
 

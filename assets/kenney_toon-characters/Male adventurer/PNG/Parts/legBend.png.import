@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2wqu3k7jvsm3"
-path="res://.godot/imported/legBend.png-01049d408c75219eef25701113f5180b.ctex"
+path="res://.godot/imported/legBend.png-4ec1a2e05e005d93f859a3c7b8572983.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Male adventurer/PNG/Parts/legBend.png"
-dest_files=["res://.godot/imported/legBend.png-01049d408c75219eef25701113f5180b.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Male adventurer/PNG/Parts/legBend.png"
+dest_files=["res://.godot/imported/legBend.png-4ec1a2e05e005d93f859a3c7b8572983.ctex"]
 
 [params]
 

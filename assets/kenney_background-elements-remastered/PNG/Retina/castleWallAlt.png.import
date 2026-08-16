@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1n4iay2nsle4"
-path="res://.godot/imported/castleWallAlt.png-2719c8b53c51e9030bf33e5dcb2cf9b4.ctex"
+path="res://.godot/imported/castleWallAlt.png-2401e5cf28f1be5a8da89d4b27fc14b3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Retina/castleWallAlt.png"
-dest_files=["res://.godot/imported/castleWallAlt.png-2719c8b53c51e9030bf33e5dcb2cf9b4.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Retina/castleWallAlt.png"
+dest_files=["res://.godot/imported/castleWallAlt.png-2401e5cf28f1be5a8da89d4b27fc14b3.ctex"]
 
 [params]
 

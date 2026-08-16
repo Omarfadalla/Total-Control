@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1fuwtslh7sdd"
-path="res://.godot/imported/moon.png-63cb7f3bbdd4780b6b4a120c323abe6c.ctex"
+path="res://.godot/imported/moon.png-08d39cfd8013faef440e92c014ecb367.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Retina/moon.png"
-dest_files=["res://.godot/imported/moon.png-63cb7f3bbdd4780b6b4a120c323abe6c.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Retina/moon.png"
+dest_files=["res://.godot/imported/moon.png-08d39cfd8013faef440e92c014ecb367.ctex"]
 
 [params]
 

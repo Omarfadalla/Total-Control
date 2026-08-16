@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4n11jldw660v"
-path="res://.godot/imported/icons question.png-ea513996c1f4a8ceb8856c2bd74a362a.ctex"
+path="res://.godot/imported/icons question.png-2feecb8162044cbb2f86bd33f1bc91cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/sci fi/icons question.png"
-dest_files=["res://.godot/imported/icons question.png-ea513996c1f4a8ceb8856c2bd74a362a.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/sci fi/icons question.png"
+dest_files=["res://.godot/imported/icons question.png-2feecb8162044cbb2f86bd33f1bc91cf.ctex"]
 
 [params]
 

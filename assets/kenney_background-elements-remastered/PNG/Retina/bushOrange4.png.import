@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfrnmroftl0iq"
-path="res://.godot/imported/bushOrange4.png-5217b56664156f138a20109f1f5d06ef.ctex"
+path="res://.godot/imported/bushOrange4.png-a1ee24761d80adfdf51548319b37bcea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Retina/bushOrange4.png"
-dest_files=["res://.godot/imported/bushOrange4.png-5217b56664156f138a20109f1f5d06ef.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Retina/bushOrange4.png"
+dest_files=["res://.godot/imported/bushOrange4.png-a1ee24761d80adfdf51548319b37bcea.ctex"]
 
 [params]
 

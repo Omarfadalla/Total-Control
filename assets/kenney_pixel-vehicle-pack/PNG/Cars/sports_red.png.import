@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnvmdfplk1fae"
-path="res://.godot/imported/sports_red.png-eb04e64222a0320e1b116acabbb6b4a5.ctex"
+path="res://.godot/imported/sports_red.png-6b3f0d5a30a25109c1d75067eb79c8dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/sports_red.png"
-dest_files=["res://.godot/imported/sports_red.png-eb04e64222a0320e1b116acabbb6b4a5.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/sports_red.png"
+dest_files=["res://.godot/imported/sports_red.png-6b3f0d5a30a25109c1d75067eb79c8dc.ctex"]
 
 [params]
 

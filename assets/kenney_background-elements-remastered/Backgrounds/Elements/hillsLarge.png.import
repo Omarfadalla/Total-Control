@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv2nbuxbnitk5"
-path="res://.godot/imported/hillsLarge.png-1c6ba83312c9208422291cc01ded8e23.ctex"
+path="res://.godot/imported/hillsLarge.png-74e159726f1d8f58f9c55b2f73f2fc97.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/Backgrounds/Elements/hillsLarge.png"
-dest_files=["res://.godot/imported/hillsLarge.png-1c6ba83312c9208422291cc01ded8e23.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/Backgrounds/Elements/hillsLarge.png"
+dest_files=["res://.godot/imported/hillsLarge.png-74e159726f1d8f58f9c55b2f73f2fc97.ctex"]
 
 [params]
 

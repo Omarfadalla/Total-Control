@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c714ler1d8nyw"
-path="res://.godot/imported/character_robot_rope.png-0a3e0a497895c8c81a9ff1a33139a34b.ctex"
+path="res://.godot/imported/character_robot_rope.png-c39b6dc42b8b435aaf9baf1e96f27f04.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Robot/PNG/Poses/character_robot_rope.png"
-dest_files=["res://.godot/imported/character_robot_rope.png-0a3e0a497895c8c81a9ff1a33139a34b.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Robot/PNG/Poses/character_robot_rope.png"
+dest_files=["res://.godot/imported/character_robot_rope.png-c39b6dc42b8b435aaf9baf1e96f27f04.ctex"]
 
 [params]
 

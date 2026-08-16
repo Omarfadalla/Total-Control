@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgpljxnwglprk"
-path="res://.godot/imported/truckdark.png-328573e9747f08e9c90cfd8531b5c4bd.ctex"
+path="res://.godot/imported/truckdark.png-c19ff97ab2856ff0429379d67a982575.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/truckdark.png"
-dest_files=["res://.godot/imported/truckdark.png-328573e9747f08e9c90cfd8531b5c4bd.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/truckdark.png"
+dest_files=["res://.godot/imported/truckdark.png-c19ff97ab2856ff0429379d67a982575.ctex"]
 
 [params]
 

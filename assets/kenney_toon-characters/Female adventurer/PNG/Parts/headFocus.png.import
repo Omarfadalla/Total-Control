@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://u088lnc3f2n5"
-path="res://.godot/imported/headFocus.png-0302d06115e0e192cb2060e152c7faf1.ctex"
+path="res://.godot/imported/headFocus.png-357f560a464986a3d063866a5f72d2d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Female adventurer/PNG/Parts/headFocus.png"
-dest_files=["res://.godot/imported/headFocus.png-0302d06115e0e192cb2060e152c7faf1.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Female adventurer/PNG/Parts/headFocus.png"
+dest_files=["res://.godot/imported/headFocus.png-357f560a464986a3d063866a5f72d2d5.ctex"]
 
 [params]
 

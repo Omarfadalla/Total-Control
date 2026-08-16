@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuw2jb7li5fmd"
-path="res://.godot/imported/star empty.png-fafa81ba5da1ddf3bd26d756c59cbef8.ctex"
+path="res://.godot/imported/star empty.png-6eddbccb9ee89a219102d7134d8face2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic orange/star empty.png"
-dest_files=["res://.godot/imported/star empty.png-fafa81ba5da1ddf3bd26d756c59cbef8.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic orange/star empty.png"
+dest_files=["res://.godot/imported/star empty.png-6eddbccb9ee89a219102d7134d8face2.ctex"]
 
 [params]
 

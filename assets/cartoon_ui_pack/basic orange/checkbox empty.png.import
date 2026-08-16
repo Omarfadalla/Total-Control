@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://r6mwya6t6we3"
-path="res://.godot/imported/checkbox empty.png-52a4ad5522b0cb16eff66a99b6ffb89b.ctex"
+path="res://.godot/imported/checkbox empty.png-f42db5fe8f99543c85ee2786d1a2e89e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/basic orange/checkbox empty.png"
-dest_files=["res://.godot/imported/checkbox empty.png-52a4ad5522b0cb16eff66a99b6ffb89b.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/basic orange/checkbox empty.png"
+dest_files=["res://.godot/imported/checkbox empty.png-f42db5fe8f99543c85ee2786d1a2e89e.ctex"]
 
 [params]
 

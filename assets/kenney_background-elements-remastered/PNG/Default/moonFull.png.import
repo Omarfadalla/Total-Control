@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcojat4ntmu1p"
-path="res://.godot/imported/moonFull.png-672727fcecda8e342cea968edc6bfe10.ctex"
+path="res://.godot/imported/moonFull.png-d2d516eeabb74a2ff61dacc676224064.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_background-elements-remastered/PNG/Default/moonFull.png"
-dest_files=["res://.godot/imported/moonFull.png-672727fcecda8e342cea968edc6bfe10.ctex"]
+source_file="res://add/assets/kenney_background-elements-remastered/PNG/Default/moonFull.png"
+dest_files=["res://.godot/imported/moonFull.png-d2d516eeabb74a2ff61dacc676224064.ctex"]
 
 [params]
 

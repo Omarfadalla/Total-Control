@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhfjwlodtx165"
-path="res://.godot/imported/button wide idle.png-70fec2227171743d7a97e5eac0a0520a.ctex"
+path="res://.godot/imported/button wide idle.png-897488dbe79cd18a59cabd79df5f6298.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/cartoon_ui_pack/sci fi/button wide idle.png"
-dest_files=["res://.godot/imported/button wide idle.png-70fec2227171743d7a97e5eac0a0520a.ctex"]
+source_file="res://add/assets/cartoon_ui_pack/sci fi/button wide idle.png"
+dest_files=["res://.godot/imported/button wide idle.png-897488dbe79cd18a59cabd79df5f6298.ctex"]
 
 [params]
 

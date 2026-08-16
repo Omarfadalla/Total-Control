@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhc4h3iwd0vmf"
-path="res://.godot/imported/buggy.png-e72b11f09f3d4fa1cece4054a607798b.ctex"
+path="res://.godot/imported/buggy.png-b5b7103f6110334838f510e38f38dae6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/buggy.png"
-dest_files=["res://.godot/imported/buggy.png-e72b11f09f3d4fa1cece4054a607798b.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/buggy.png"
+dest_files=["res://.godot/imported/buggy.png-b5b7103f6110334838f510e38f38dae6.ctex"]
 
 [params]
 

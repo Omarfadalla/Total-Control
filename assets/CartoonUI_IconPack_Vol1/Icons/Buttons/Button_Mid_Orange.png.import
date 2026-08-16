@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5llb3n2yenjh"
-path="res://.godot/imported/Button_Mid_Orange.png-1c93903dbf621311a629490a54407996.ctex"
+path="res://.godot/imported/Button_Mid_Orange.png-ba69cda3ea74a6aedb62d2731f1a0139.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/CartoonUI_IconPack_Vol1/Icons/Buttons/Button_Mid_Orange.png"
-dest_files=["res://.godot/imported/Button_Mid_Orange.png-1c93903dbf621311a629490a54407996.ctex"]
+source_file="res://add/assets/CartoonUI_IconPack_Vol1/Icons/Buttons/Button_Mid_Orange.png"
+dest_files=["res://.godot/imported/Button_Mid_Orange.png-ba69cda3ea74a6aedb62d2731f1a0139.ctex"]
 
 [params]
 

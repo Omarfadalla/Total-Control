@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8i0g45k7m8ab"
-path="res://.godot/imported/headFocus.png-78197fa35c2f723a367686e956cafd2a.ctex"
+path="res://.godot/imported/headFocus.png-3f1044001b2fd17db2a8f5c4a620ef40.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Robot/PNG/Parts/headFocus.png"
-dest_files=["res://.godot/imported/headFocus.png-78197fa35c2f723a367686e956cafd2a.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Robot/PNG/Parts/headFocus.png"
+dest_files=["res://.godot/imported/headFocus.png-3f1044001b2fd17db2a8f5c4a620ef40.ctex"]
 
 [params]
 

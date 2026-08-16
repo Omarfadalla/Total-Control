@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7bqf64pdnvkp"
-path="res://.godot/imported/truckdelivery.png-74666a2b3c719d911b70bc4646d97de8.ctex"
+path="res://.godot/imported/truckdelivery.png-ae0d6c8c2dcba8b19a69244b401f03d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Cars/truckdelivery.png"
-dest_files=["res://.godot/imported/truckdelivery.png-74666a2b3c719d911b70bc4646d97de8.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Cars/truckdelivery.png"
+dest_files=["res://.godot/imported/truckdelivery.png-ae0d6c8c2dcba8b19a69244b401f03d2.ctex"]
 
 [params]
 

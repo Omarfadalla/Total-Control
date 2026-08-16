@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drxeho1lfevpr"
-path="res://.godot/imported/character_femaleAdventurer_idle.png-a56be169a5816130499d61be1329b407.ctex"
+path="res://.godot/imported/character_femaleAdventurer_idle.png-f5ef842dbce735dda6e5952660b3456c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_toon-characters/Female adventurer/PNG/Poses/character_femaleAdventurer_idle.png"
-dest_files=["res://.godot/imported/character_femaleAdventurer_idle.png-a56be169a5816130499d61be1329b407.ctex"]
+source_file="res://add/assets/kenney_toon-characters/Female adventurer/PNG/Poses/character_femaleAdventurer_idle.png"
+dest_files=["res://.godot/imported/character_femaleAdventurer_idle.png-f5ef842dbce735dda6e5952660b3456c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2gymoy11qgcd"
-path="res://.godot/imported/man_down.png-4fd89d401f531e0ac4cf59c2006ac0ef.ctex"
+path="res://.godot/imported/man_down.png-72ae4c01caa253fbd129aba1cc265b45.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/kenney_pixel-vehicle-pack/PNG/Characters/man_down.png"
-dest_files=["res://.godot/imported/man_down.png-4fd89d401f531e0ac4cf59c2006ac0ef.ctex"]
+source_file="res://add/assets/kenney_pixel-vehicle-pack/PNG/Characters/man_down.png"
+dest_files=["res://.godot/imported/man_down.png-72ae4c01caa253fbd129aba1cc265b45.ctex"]
 
 [params]
 
